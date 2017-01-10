@@ -1,0 +1,27 @@
+.first{
+  border: 1px solid ;
+  height: 200px;
+  width: 500px;
+  padding: 10px;
+  background-color: #1de286;
+  margin:0 auto;
+
+}
+.select1{
+  margin-left: 10px;
+  color: blue;
+  margin-top: 20px;
+  display:inline-block;
+  margin-left: 20px;
+}
+.select2{
+  margin-left: 10px;
+  position: right;
+  color: green;
+  display:inline-block;
+
+}
+.head{
+  color: blue;
+
+}
